@@ -13,6 +13,7 @@
     <color name="redv_2">#FD1E1E</color>
     <color name="brown">#F3F87952</color>
     <color name="brown_light">#CF433E</color>
+    <color name="brown_light_bg">#EDBEBC</color>
     <color name="light_gray">#C4DADADA</color>
     <color name="green">#4CAF50</color>
 </resources>
